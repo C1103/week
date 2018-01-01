@@ -18,7 +18,8 @@
     .wrapper{
         position: fixed;
         top: 0;
-        left: 0;right: 0;
+        left: 0;
+        right: 0;
         height: 114px;
         padding-top: 44px;
         display:flex;
